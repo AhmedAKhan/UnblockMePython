@@ -1,0 +1,7 @@
+This is a ptyhong version of the game unblock me made for learning purposes.
+
+Objective
+The objective is to move the red block to the other side of the screen. You can move the blocks by clicking one of them and then the destination you want the block to go. The blocks are only movable in one direction. Some only move horizontal and the others only move vertical. The blocks that taller then they are wide can only move vertically and the blocks that are wider then they are high can only move horizontally.
+
+
+The code is heavily commented and should be easy to follow
